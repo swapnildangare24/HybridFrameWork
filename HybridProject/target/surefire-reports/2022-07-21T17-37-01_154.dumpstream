@@ -1,0 +1,4 @@
+# Created at 2022-07-21T17:37:12.375
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Tester\WorkSpace\Swapnil\HybridProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
